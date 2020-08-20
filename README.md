@@ -6,9 +6,9 @@
 - CSS
 - БЭМ
 - ООП
-- Api
+- API
 ## Как воспользоваться проектом
 ### Посмотреть на Github Pages:
-https://1Roderick.github.io/praktikumproject8
+https://1Roderick.github.io/praktikumproject9
 ### Для целей разработки
-- Cкачайте архив c копией репозитория [с главной страницы репозитория](https://github.com/1Roderick/praktikumproject8).
+- Cкачайте архив c копией репозитория [с главной страницы репозитория](https://github.com/1Roderick/praktikumproject9).
