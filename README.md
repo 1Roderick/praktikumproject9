@@ -8,5 +8,7 @@
 - ООП
 - API
 ## Как воспользоваться проектом
+### Посмотреть на Github Pages:
+https://1Roderick.github.io/praktikumproject9
 ### Для целей разработки
 - Cкачайте архив c копией репозитория [с главной страницы репозитория](https://github.com/1Roderick/praktikumproject9).
