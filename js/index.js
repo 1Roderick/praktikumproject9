@@ -10,7 +10,7 @@
 
   const validErrors = { emptyField: 'Обязательное поле', shortValue: 'Должно быть от 2 до 30 символов', notLink: 'Здесь должна быть ссылка' };
   const config = {
-    url: 'https://praktikum.tk/cohort11',
+    url: 'http://nomoreparties.co/cohort11',
     headers: {
       authorization: '1efb2071-c7bb-4609-9050-92d1c90dad3f',
       'Content-Type': 'application/json'
